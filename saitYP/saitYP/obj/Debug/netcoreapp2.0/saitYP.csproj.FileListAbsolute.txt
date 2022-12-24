@@ -1,0 +1,11 @@
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\bin\Debug\netcoreapp2.0\saitYP.deps.json
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\bin\Debug\netcoreapp2.0\saitYP.runtimeconfig.json
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\bin\Debug\netcoreapp2.0\saitYP.runtimeconfig.dev.json
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\bin\Debug\netcoreapp2.0\saitYP.dll
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.csprojAssemblyReference.cache
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.csproj.CoreCompileInputs.cache
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.AssemblyInfoInputs.cache
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.AssemblyInfo.cs
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\bin\Debug\netcoreapp2.0\saitYP.pdb
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.dll
+C:\Users\егоровы\Desktop\дистант\ЯП\saitYP\saitYP\obj\Debug\netcoreapp2.0\saitYP.pdb
